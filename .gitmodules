@@ -1,0 +1,8 @@
+[submodule "psh-tui"]
+	path = ptui
+	url = https://git.unix.lgbt/Mia/ptui
+	branch = head
+[submodule "room-gen"]
+	path = rbuilder
+	url = https://git.unix.lgbt/Mia/rbr
+	branch = head

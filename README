@@ -1,0 +1,11 @@
+----
+# miarl
+-- THE pure POSIX sh roguelike; better known as the "mia roguelike"
+----
+# Caveats
+-- pure POSIX sh is extremely limited comparred to pure bash
+-- and without POSIX alternatives to things like `read -N 1`
+-- user interaction must be done using the raw cli
+# Info
+-- this project depends on outside (still pure sh) libraries
+-- cloning the repo/project for usage requires one to use `--recursive` to pull in the submods
