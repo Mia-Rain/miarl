@@ -1,12 +1,4 @@
-[submodule "psh-tui"]
-	path = ptui
-	url = https://git.unix.lgbt/Mia/ptui
-	branch = head
-[submodule "room-gen"]
-	path = rbuilder
-	url = https://git.unix.lgbt/Mia/rbr
-	branch = head
 [submodule "rng"]
 	path = rng
-	url = https://git.unix.lgbt/Mia/psh-prng
+	url = https://git.unix.lgbt/Mia/psh-prng.git
 	branch = master
