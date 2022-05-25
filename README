@@ -2,28 +2,10 @@
 miarl
 -- THE pure POSIX sh roguelike; better known as the "mia roguelike"
 ---
-status
--- the mia roguelike is currently extremely WIP as literally all the background work is being done by hand
--- from the ground up; since as far as ik, literally no one in their right mind would attempt this
--- the current process is a bit slow; since I tend to have burn out /a lot/
--- but I promise work on the mia roguelike should start no later than 2024 (?) 
--- until than; see below for the various ideas I have for this project
+Status?
+-- miarl will be "superseded" by Fragments
+-- miarl was just to see what I could do
+-- I have actual ideas for Fragments
+-- Lore, Story Line, Design Style
+-- All to come? soon™?
 ---
-ideas
--- per room generation seeds
--- loot generation seeds created on the fly
--- user controllable seeds
--- bash addons
--- easy modding
--- completely editable via raw source
--- completely sandboxed setup contained in ./
--- large refractoring with easy lib managment via submods
----
-Caveats
--- pure POSIX sh is extremely limited comparred to pure bash
--- and without POSIX alternatives to things like `read -N 1`
--- user interaction must be done using the raw cli
----
-Info
--- this project will depend on outside (still pure sh) libraries
--- cloning the repo/project for usage requires one to use `--recursive` to pull in the submods
